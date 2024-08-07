@@ -1,0 +1,49 @@
+baseURL: "https://jobarasoined.github.io/"
+languageCode: en-us
+title: "jobarasoined"
+theme: ["PaperMod"]
+
+params:
+  homeInfoParams:
+    Title: Hi there 👋 I’m @jobarasoined
+    Content: Hello! I'm a cybersecurity enthusiast with a keen focus on web application penetration testing. Engaging in Capture The Flag (CTF) competitions has become a daily routine, allowing me to sharpen my skills and tackle real-world challenges. I thrive in collaborative company environments where teamwork, innovation, and open communication are valued. 
+  defaultTheme: dark
+  ShowToc: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowAllPagesInArchive: true
+  ShowPageNums: true
+  ShowShareButtons: true
+
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  
+
+  socialIcons: # optional
+    - name: "hackthebox"
+      url: "https://app.hackthebox.com/users/1495355"
+    - name: "github"
+      url: "https://github.com/jobarasoined"
+    - name: "buymeacoffee"
+      url: "<link3>"
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+menus:
+   main:
+        - name: CTF writeups
+          url: post/
+          weight: 2
+        - name: Archive
+          url: archives/
+          weight: 5
+        - name: Search
+          url: search/
+          weight: 10
+        - name: Tags
+          url: tags/
+          weight: 10

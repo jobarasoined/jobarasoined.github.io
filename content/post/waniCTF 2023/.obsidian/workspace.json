@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "f05d655a8b927c96",
+    "type": "split",
+    "children": [
+      {
+        "id": "84fc3081afb6b23b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc4d8f620821a20c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1192352ed6dd3b92",
+    "type": "split",
+    "children": [
+      {
+        "id": "043376d83154aa76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9eda867ab78c043",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b1d97628a5767e1d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f08b7361d0e3ea3c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "96b60ae53b0ec3fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "79aa796a2c1d404f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4fbba4781a5ef0c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "screanshots/Pasted image 20230513075307.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3652abb33073aa3d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "screanshots/Pasted image 20230513075307.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "27e7be3c31f35f90",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cf30f90561de443a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "screanshots/Pasted image 20230513075307.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e9eda867ab78c043",
+  "lastOpenFiles": [
+    "WEB/Screenshot.md",
+    "screanshots/Pasted image 20230513075545.png",
+    "screanshots/Pasted image 20230513075307.png",
+    "screanshots/Pasted image 20230513073051.png",
+    "screanshots/Pasted image 20230513071617.png",
+    "screanshots/Pasted image 20230513071553.png",
+    "WEB/WEB CATCORGY.md",
+    "WEB/64bps.md",
+    "WEB/IndexedDB.md",
+    "WEB/Extract Service 1.md",
+    "INTRODUCTION.md",
+    "screanshots/Pasted image 20230513054450.png",
+    "HTTP range requests - HTTP MDN.md",
+    "screanshots/Pasted image 20230513002425.png"
+  ]
+}
