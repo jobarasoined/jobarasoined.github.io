@@ -47,3 +47,6 @@ menus:
         - name: Tags
           url: tags/
           weight: 10
+        - name: PGP and Canary
+          url: PGP/
+          weight: 10
